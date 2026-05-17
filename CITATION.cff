@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this poster or repository, please cite it using the metadata below."
+
+title: "Syntaxe et organisation du savoir dans le lüfu des Tang"
+
+type: dataset
+
+authors:
+  - family-names: Chiang
+    given-names: Tao-Yi
+    orcid: "https://orcid.org/0009-0002-9157-2364"
+
+year: 2026
+
+license: "CC-BY-NC-ND-4.0"
+
+repository: "https://github.com/Taoyi-Chiang/humanistica_2026_poster_chiang"
+
+abstract: |
+  This repository contains a research poster on the syntactic organization of knowledge in Tang dynasty lüfu. The project examines how classical allusions are reorganized through recurrent syntactic frames, using TEI-XML annotation and examples from the lüfu works of Li Cheng 李程.
+
+keywords:
+  - "Tang dynasty"
+  - "lüfu"
+  - "regulated fu"
+  - "allusion"
+  - "TEI-XML"
+  - "syntax"
+  - "digital humanities"
+  - "classical Chinese literature"
+
+preferred-citation:
+  type: generic
+  title: "Syntaxe et organisation du savoir dans le lüfu des Tang"
+  authors:
+    - family-names: Chiang
+      given-names: Tao-Yi
+      orcid: "https://orcid.org/0009-0002-9157-2364"
+  year: 2026
+  notes: "Poster presented in the context of the Humanistica / DISTAM+ event."
+  url: "https://github.com/Taoyi-Chiang/humanistica_2026_poster_chiang"

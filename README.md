@@ -1,4 +1,4 @@
-# Syntaxe et organisation du savoir dans le lüfu des Tang
+# Syntaxe et organisation du savoir dans le *lüfu* des Tang
 
 Ce dépôt contient l’affiche présentée dans le cadre de l’événement Humanistica / DISTAM+.
 

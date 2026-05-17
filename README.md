@@ -37,6 +37,10 @@ Chiang, Tao-Yi. 2026. *Syntaxe et organisation du savoir dans le lüfu des Tang*
 
 Cette affiche et la documentation qui l’accompagne sont mises à disposition selon les termes de la licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Pas de Modification 4.0 International (CC BY-NC-ND 4.0).
 
+## Disponibilité des données
+
+Le corpus TEI-XML complet n’est pas inclus dans ce dépôt, car il est encore en cours de préparation et de vérification dans le cadre d’une recherche doctorale en cours.
+
 # Syntaxe et organisation du savoir dans le Lüfu des Tang
 
 This repository contains the poster presented for the Humanistica / DISTAM+ event.
@@ -73,3 +77,7 @@ Tang dynasty; Lüfu; regulated fu; allusion; TEI-XML; syntax; digital humanities
 Please cite this repository as:
 
 Chiang, Tao-Yi. *Syntaxe et organisation du savoir dans le Lüfu des Tang*. Poster, Humanistica / DISTAM+, 2026.
+
+## Data availability
+
+The full TEI-XML corpus is not included in this repository, as it is still being prepared and verified as part of an ongoing doctoral research project.

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Syntaxe et organisation du savoir dans le Lüfu des Tang"
+message: "If you use this poster or repository, please cite it as below."
+type: poster
+authors:
+  - family-names: Chiang
+    given-names: Tao-Yi
+year: 2026
+keywords:
+  - Tang dynasty
+  - Lüfu
+  - regulated fu
+  - allusion
+  - TEI-XML
+  - syntax
+  - digital humanities
+  - Chinese literature
